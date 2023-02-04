@@ -1,0 +1,2 @@
+module neww.projrct {
+}
